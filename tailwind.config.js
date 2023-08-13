@@ -19,7 +19,11 @@ export default {
 				'fs-32': '2rem',
 				'fs-24': '1.5rem',
 				'fs-18': '1.125rem',
-				
+			},
+			lineHeight: {
+				'lh-26': '1.625rem',
+				'lh-48': '3rem',
+				'lh-36': '2.25rem',
 			},
 		},
 	},
